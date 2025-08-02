@@ -1,7 +1,7 @@
 # VehicleLogix
 📊 Simplifying vehicle maintenance tracking for garages and owners.
 
-VehicleLogix is basically a Vehicle Management System(VMS).VehicleLogix is a lightweight, web-based application built to streamline the process of managing vehicle service records. It is ideal for garages, workshops, and individual vehicle owners who want to keep track of service history in an organized way.
+VehicleLogix is a lightweight, web-based application built to streamline the process of managing vehicle service records. It is ideal for garages, workshops, and individual vehicle owners who want to keep track of service history in an organized way.
 
 🎯 Project Statement
 
