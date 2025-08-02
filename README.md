@@ -29,4 +29,7 @@ ORM (Database Handling): SQLAlchemy
 
 Development Approach: Conceptualized by me and implemented with the assistance of Windsurf AI
 
+📸 Screenshots
+Dashboard
 
+<img width="1894" height="885" alt="Screenshot 2025-08-01 232143" src="https://github.com/user-attachments/assets/cee47dff-58c4-4191-899e-aa629971b219" />
